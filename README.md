@@ -1,7 +1,7 @@
-MCU Used : STM32G070RB Microcontroller
-PC Code used : Python
-IDE used for MCU : STM32CubeIDE
-Code editor used for PC code : VS Code
+MCU Used : STM32G070RB Microcontroller.
+PC Code used : Python.
+IDE used for MCU : STM32CubeIDE.
+Code editor used for PC code : VS Code.
 
 Information regarding the files:
 
